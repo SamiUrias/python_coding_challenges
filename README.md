@@ -2,6 +2,6 @@
 This is a repository with code of coding challenges / excercises
 
 1. Time Conversion
-time_conversion.py
+time_conversion_01
 
 2.
